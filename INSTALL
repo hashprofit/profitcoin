@@ -1,0 +1,9 @@
+Building ProfitCoin
+
+See doc/readme-qt.rst for instructions on building ProfitCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ProfitCoin.
+
+See doc/build-*.txt for instructions on building ProfitCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ProfitCoin.
